@@ -1,0 +1,8 @@
+.better {
+    background-color: rgb(44, 44, 44);
+    color: white;
+    width: 100vw;
+    box-sizing: 'border-box';
+    text-align: center;
+    padding-bottom: 10px;
+}
